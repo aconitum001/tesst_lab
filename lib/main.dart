@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Assil gitlab'),
+      home: const MyHomePage(title: 'Welcome to the vortex'),
     );
   }
 }
